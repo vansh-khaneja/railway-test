@@ -6,3 +6,4 @@ transformers
 qdrant_client
 starlette
 pillow
+python-multipart
