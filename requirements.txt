@@ -1,3 +1,4 @@
+opencv-python
 fastapi
 uvicorn
 qdrant_client
@@ -5,5 +6,4 @@ python-multipart
 deepface
 numpy
 tf-keras
-opencv-python
 
