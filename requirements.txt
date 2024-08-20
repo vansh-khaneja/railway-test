@@ -1,9 +1,9 @@
 fastapi
 uvicorn
-pydantic
-torch
-transformers
 qdrant_client
-starlette
-pillow
 python-multipart
+deepface
+numpy
+tf-keras
+opencv-python
+
